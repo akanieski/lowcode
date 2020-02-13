@@ -1,0 +1,5 @@
+work
+api/node_modules
+editor/node_modules
+editor/dist
+~editor/dist/index.html
